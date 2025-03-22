@@ -1,6 +1,0 @@
-services: 
-   web:
-     build: .
-     image: neeraj2806/zomato:${DOCKER_IMAGE_TAG}
-     ports: 
-     - 3001:3000
